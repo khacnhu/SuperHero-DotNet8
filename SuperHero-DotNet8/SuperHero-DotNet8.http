@@ -1,0 +1,6 @@
+@SuperHero_DotNet8_HostAddress = http://localhost:5110
+
+GET {{SuperHero_DotNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
